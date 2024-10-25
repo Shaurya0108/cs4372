@@ -1,5 +1,7 @@
 # Assignment 3 - CS4372.501
 
+## Shaurya Dwivedi - SXD200087
+
 Dataset: https://www.kaggle.com/datasets/lantian773030/pokemonclassification/data
 
 Found via Google Datasets
